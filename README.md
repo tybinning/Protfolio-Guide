@@ -28,6 +28,8 @@ Skills: Web Scraping, Data Cleaning, Wrangling, Visualisation, Analysis, Web Dev
 
 Libraries: Sqlite3, Numpy, Pandas, Datetime, Time, Requests, CleanText, BeautifulSoup, Scikit-learn, Matplotlib, Plotly, Altair, DJANGO
 
+API'S: Alpaca, yfinance, Robinhood
+
 | Project Name | Area | Description | Libraries |
 |---|---|---| --- |
 | Sample | What area it is classified in | What I did in the sample| libraries used |
