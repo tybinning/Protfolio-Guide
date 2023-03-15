@@ -30,8 +30,8 @@ Libraries: Sqlite3, Numpy, Pandas, Datetime, Time, Requests, CleanText, Beautifu
 
 API'S: Alpaca, yfinance, Robinhood
 
-| Project Name | Area | Libraries |
-|---|---|---| --- |
+| Project Name | Area | Libraries | 
+|---|---|---|
 | <a href="https://github.com/tybinning/pythonprojects/blob/main/Abspestos%20(5).ipynb"> House Year Prediction <a> | Machine Learning, Visualization, Analysis | Numpy, Pandas, Scikit-learn, Seaborn |
 
 # R
