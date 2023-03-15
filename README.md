@@ -24,15 +24,15 @@ Functions: Aggregations, Joins, CTEs, Window functions (aggregates, ranking, run
 # PYTHON
 Level: Intermediate Python
 
-Skills: Web Scraping, Data Cleaning, Wrangling, Visualisation, Analysis, Web Development
+Skills: Web Scraping, Data Cleaning, Wrangling, Visualisation, Analysis, Web Development, Machine Learning
 
-Libraries: Sqlite3, Numpy, Pandas, Datetime, Time, Requests, CleanText, BeautifulSoup, Scikit-learn, Matplotlib, Plotly, Altair, DJANGO
+Libraries: Sqlite3, Numpy, Pandas, Datetime, Time, Requests, CleanText, BeautifulSoup, Scikit-learn, Matplotlib, Plotly, Altair, DJANGO, seaborn
 
 API'S: Alpaca, yfinance, Robinhood
 
-| Project Name | Area | Description | Libraries |
+| Project Name | Area | Libraries |
 |---|---|---| --- |
-| Sample | What area it is classified in | What I did in the sample| libraries used |
+| <a href="https://github.com/tybinning/pythonprojects/blob/main/Abspestos%20(5).ipynb"> House Year Prediction <a> | Machine Learning, Visualization, Analysis | Numpy, Pandas, Scikit-learn, Seaborn |
 
 # R
 Level: Fundamental R
