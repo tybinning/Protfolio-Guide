@@ -31,6 +31,7 @@ API'S: Alpaca, yfinance, Robinhood
 | <a href="https://tybinning.github.io/pythonprojects/project_3.html"> Baseball! Some Simple Sanalysis </a> | Analyzes insights from the Lahmans Baseball Database. | Pandas, Numpy, Altair, Sqlite3 |
 | <a href="https://tybinning.github.io/pythonprojects/project_2.html"> Why are my flights always Late? </a> | Analyzes flight delays to analyze patterns. | Pandas, Numpy, Altair |
 | <a href="https://tybinning.github.io/pythonprojects/project_1.html"> Historical Name Analysis </a> | Looks at historical trends of names given to children | Pandas, Numpy, Altair |
+| <a href="https://tybinning.github.io/pythonprojects/craigs_cars.html"> Jeep Cherokee Analysis </a> | Webscraped data from Craigslist to look at different qualities and characteristic to see how they affect prices of Jeep Cherokees | BeautifulSoup, Requests, Altair, Plotly, GeneratorType, Pandas, Numpy, Seaborn, String |
 
 # R
 Level: Competent in R
