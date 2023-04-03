@@ -16,7 +16,7 @@ Feel free to chat with me on [LinkedIn](https://www.linkedin.com/in/katiehuangx/
 
 
 # PYTHON
-Level: Intermediate Python
+Level: Profiecient in Python
 
 Skills: Web Scraping, Data Cleaning, Wrangling, Visualisation, Analysis, Web Development, Machine Learning
 
@@ -33,7 +33,7 @@ API'S: Alpaca, yfinance, Robinhood
 | <a href="https://tybinning.github.io/pythonprojects/project_1.html"> Historical Name Analysis </a> | Looks at historical trends of names given to children | Pandas, Numpy, Altair |
 
 # R
-Level: Fundamental R
+Level: Competent in R
 
 | Project Name | Statistical Tests | Packages |
 | --- | --- | --- |
