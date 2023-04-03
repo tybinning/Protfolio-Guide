@@ -27,8 +27,6 @@ Libraries: Sqlite3, Numpy, Pandas, Datetime, Time, Requests, CleanText, Beautifu
 
 API'S: Alpaca, yfinance, Robinhood
 
-| Project Name | Discription | Libraries | 
-|---|---|---|
 | Project Title | Discription | Libraries |
 | --- | --- | --- | 
 | <a href="https://tybinning.github.io/pythonprojects/project_5.html"> Can Star Wars Be Used to Predict Income? </a> | Analyzes a survey to look at the Star Wars opinions of individuals and predict how they may affect their income.  | Pandas, Numpy, Altair, Generator Type, Seaborn, Sklearn |
