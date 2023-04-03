@@ -47,6 +47,6 @@ Level: Competent in R
 | <a href="https://tybinning.github.io/rprojects/RecallingWords.html"> Recalling words </a> | Wilcoxon Ranked Sum Test | mosaic, car, pander, tidyverse, DT |
 
 # SQL
-Level: Fundamental SQL
+Level: Competent in  SQL
 
 Functions: Aggregations, Joins, CTEs, Window functions (aggregates, ranking, running total, partitioned averages), CASE WHEN statements, subqueries, nested subqueries, DATETIME functions, data type conversion, text and string manipulation
