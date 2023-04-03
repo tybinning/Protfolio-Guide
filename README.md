@@ -7,15 +7,12 @@ Welcome to my Portfolio Guide where I provide a walkthrough to all of my data an
 Feel free to chat with me on [LinkedIn](https://www.linkedin.com/in/katiehuangx/) about my projects!
 
 ## 📚 Table of Contents
-- [SQL](#sql)
 - [Python](#python)
 - [R](#r)
+- [SQL](#sql)
 
 <br></br>
-# SQL
-Level: Fundamental SQL
 
-Functions: Aggregations, Joins, CTEs, Window functions (aggregates, ranking, running total, partitioned averages), CASE WHEN statements, subqueries, nested subqueries, DATETIME functions, data type conversion, text and string manipulation
 
 
 # PYTHON
@@ -48,3 +45,8 @@ Level: Fundamental R
 | <a href="https://tybinning.github.io/rprojects/HighSchoolSeniors2.html"> HighSchoolSeniors2 </a> | Two- Way ANOVA | mosaic, DT, pander, car, tidyverse | 
 | <a href="https://tybinning.github.io/rprojects/HighSchoolSeniors.html"> HighSchoolSeniors </a> | Independance Sample t- Test | tidyverse, DT, pander, readr, car, plotly |
 | <a href="https://tybinning.github.io/rprojects/RecallingWords.html"> Recalling words </a> | Wilcoxon Ranked Sum Test | mosaic, car, pander, tidyverse, DT |
+
+# SQL
+Level: Fundamental SQL
+
+Functions: Aggregations, Joins, CTEs, Window functions (aggregates, ranking, running total, partitioned averages), CASE WHEN statements, subqueries, nested subqueries, DATETIME functions, data type conversion, text and string manipulation
