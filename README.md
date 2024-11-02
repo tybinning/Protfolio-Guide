@@ -16,11 +16,11 @@ Feel free to chat with me on [LinkedIn](https://www.linkedin.com/in/katiehuangx/
 
 
 # PYTHON
-Level: Profiecient in Python
+Level: Proficient in Python
 
 Skills: Web Scraping, Data Cleaning, Wrangling, Visualisation, Analysis, Web Development, Machine Learning
 
-Libraries: Sqlite3, Numpy, Pandas, Datetime, Time, Requests, CleanText, BeautifulSoup, Scikit-learn, Matplotlib, Plotly, Altair, DJANGO, seaborn
+Libraries: Sqlite3, Numpy, Pandas, Datetime, Time, Requests, CleanText, BeautifulSoup, Scikit-learn, Matplotlib, Plotly, Altair, seaborn
 
 API'S: Alpaca, yfinance, Robinhood
 
