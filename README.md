@@ -7,7 +7,7 @@ Welcome to my Portfolio Guide where I provide a walkthrough to all of my data an
 Feel free to chat with me on <a href="https://www.linkedin.com/in/tyler-r-binning/">LinkedIn</a> about my projects!
 
 ## 📚 Table of Contents
-- [Featured Projects](#FEATUREDPROJECTS)
+- [Featured Projects](#featured)
 - [Python](#python)
 - [R](#r)
 - [SQL](#sql)
