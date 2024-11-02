@@ -18,7 +18,7 @@ Feel free to chat with me on [LinkedIn](https://www.linkedin.com/in/katiehuangx/
 
 | Project Title |Language| Discription | Libraries |
 | --- | --- | --- | --- | 
-| <a href="https://tybinning.github.io/pythonprojects/craigs_cars.html"> Jeep Cherokee Analysis </a> | Webscraped data from Craigslist to look at different qualities and characteristic to see how they affect prices of Jeep Cherokees | BeautifulSoup, Requests, Altair, Plotly, GeneratorType, Pandas, Numpy, Seaborn, String |
+| <a href="https://tybinning.github.io/pythonprojects/craigs_cars.html"> Jeep Cherokee Analysis </a> | Python | Webscraped data from Craigslist to look at different qualities and characteristic to see how they affect prices of Jeep Cherokees | BeautifulSoup, Requests, Altair, Plotly, GeneratorType, Pandas, Numpy, Seaborn, String |
 
 # PYTHON
 Level: Proficient in Python
