@@ -18,14 +18,14 @@ Feel free to chat with me on [LinkedIn](https://www.linkedin.com/in/katiehuangx/
 
 | Project Title |Language| Discription | Libraries |
 | --- | --- | --- | --- | 
-| Tempary | Python | Worked on blank | pandas, polars |
+| <a href="https://tybinning.github.io/pythonprojects/craigs_cars.html"> Jeep Cherokee Analysis </a> | Webscraped data from Craigslist to look at different qualities and characteristic to see how they affect prices of Jeep Cherokees | BeautifulSoup, Requests, Altair, Plotly, GeneratorType, Pandas, Numpy, Seaborn, String |
 
 # PYTHON
 Level: Proficient in Python
 
 Skills: Web Scraping, Data Cleaning, Wrangling, Visualisation, Analysis, Web Development, Machine Learning
 
-Libraries: Sqlite3, Numpy, Pandas, Datetime, Time, Requests, CleanText, BeautifulSoup, Scikit-learn, Matplotlib, Plotly, Altair, seaborn
+Libraries: Sqlite3, Numpy,Polars, Pandas, Datetime, Time, Requests, CleanText, BeautifulSoup, Scikit-learn, Matplotlib,Lets-Pl ot, Plotly, Altair, Seaborn
 
 API'S: Alpaca, yfinance, Robinhood
 
