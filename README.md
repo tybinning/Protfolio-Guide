@@ -7,13 +7,18 @@ Welcome to my Portfolio Guide where I provide a walkthrough to all of my data an
 Feel free to chat with me on [LinkedIn](https://www.linkedin.com/in/katiehuangx/) about my projects!
 
 ## 📚 Table of Contents
+-[Featured Projects](#featured projects)
 - [Python](#python)
 - [R](#r)
 - [SQL](#sql)
 
 <br></br>
 
+# FEATURED PROJECTS
 
+| Project Title |Language| Discription | Libraries |
+| --- | --- | --- | --- | 
+| Tempary | Python | Worked on blank | pandas, polars |
 
 # PYTHON
 Level: Proficient in Python
