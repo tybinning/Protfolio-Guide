@@ -4,7 +4,7 @@ Hi there! 🙋🏻‍♀️
 
 Welcome to my Portfolio Guide where I provide a walkthrough to all of my data analytics projects and courses.
 
-Feel free to chat with me on [LinkedIn](https://www.linkedin.com/in/katiehuangx/) about my projects!
+Feel free to chat with me on [LinkedIn](www.linkedin.com/in/tyler-r-binning) about my projects!
 
 ## 📚 Table of Contents
 -[Featured Projects](#featured projects)
