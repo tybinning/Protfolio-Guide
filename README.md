@@ -18,6 +18,8 @@ Feel free to chat with me on <a href="https://www.linkedin.com/in/tyler-r-binnin
 
 | Project Title |Language| Discription | Libraries |
 | --- | --- | --- | --- | 
+
+| <a href="https://github.com/tybinning/rprojects/blob/main/Math425finalProject.html" > Predicting Defaulted Loans </a> | R | Using Logistic Regression to Predict Loan Defaults | mosaic, car, pander, tidyverse, DT  |
 | <a href="https://tybinning.github.io/rprojects/Cateye_Selling_Price.html"> Cateye Chevy Truck Valuation </a> | R | Using Linear Regression to demonstrate the relationship between Mileage and Price on Chevy trucks years 2003-2006 | mosaic, car, pander, tidyverse, DT |
 | <a href="https://tybinning.github.io/pythonprojects/craigs_cars.html"> Jeep Cherokee Analysis </a> | Python | Webscraped data from Craigslist to look at different qualities and characteristic to see how they affect prices of Jeep Cherokees | BeautifulSoup, Requests, Altair, Plotly, GeneratorType, Pandas, Numpy, Seaborn, String |
 | <a href="https://tybinning.github.io/rprojects/consulting_project.html"> Data Science Salary </a> | R | Linear Regression on the relationship between a Data Scientists Salary and Population Size | tidyverse, ggplot2, ploytly, reader, gapminder, DT, pander, car, dplyr |
