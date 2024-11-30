@@ -18,7 +18,7 @@ Feel free to chat with me on <a href="https://www.linkedin.com/in/tyler-r-binnin
 
 | Project Title |Language| Discription | Libraries |
 | --- | --- | --- | --- |
-| <a href="https://tybinning.github.io/rprojects/PushUpRestTime.html" > Predicting Defaulted Loans </a> | R | Blocked ANOVA Testing Affect of Rest Time on Push Ups Till Tailure | mosaic, car, pander, tidyverse, DT, ggplot2  |
+| <a href="https://tybinning.github.io/rprojects/PushUpRestTime.html" > Push Up Rest Time Analysis of Variance </a> | R | Blocked ANOVA Testing Affect of Rest Time on Push Ups Till Tailure | mosaic, car, pander, tidyverse, DT, ggplot2  |
 | <a href="https://tybinning.github.io/rprojects/Math425finalProject.html" > Predicting Defaulted Loans </a> | R | Using Logistic Regression to Predict Loan Defaults | mosaic, car, pander, tidyverse, DT  |
 | <a href="https://tybinning.github.io/rprojects/Cateye_Selling_Price.html"> Cateye Chevy Truck Valuation </a> | R | Using Linear Regression to demonstrate the relationship between Mileage and Price on Chevy trucks years 2003-2006 | mosaic, car, pander, tidyverse, DT |
 | <a href="https://tybinning.github.io/pythonprojects/craigs_cars.html"> Jeep Cherokee Analysis </a> | Python | Webscraped data from Craigslist to look at different qualities and characteristic to see how they affect prices of Jeep Cherokees | BeautifulSoup, Requests, Altair, Plotly, GeneratorType, Pandas, Numpy, Seaborn, String |
