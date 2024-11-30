@@ -1,4 +1,4 @@
-# Protfolio-Guide
+# Portfolio-Guide
 
 Hi there! 🙋🏻‍♀️
 
