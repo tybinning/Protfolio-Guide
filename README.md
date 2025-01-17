@@ -18,12 +18,11 @@ Feel free to chat with me on <a href="https://www.linkedin.com/in/tyler-r-binnin
 
 | Project Title |Language| Discription | Libraries |
 | --- | --- | --- | --- |
+| Algorithmic Trading Platform | Python | Currently on Going: Executes Trades Based on Predefined Parameters | sklearn, statsmodels, plotly, dash, AWS | 
 | <a href="https://tybinning.github.io/rprojects/PushUpRestTime.html" > Push Up Rest Time Analysis of Variance </a> | R | Blocked ANOVA Testing Affect of Rest Time on Push Ups Till Tailure | mosaic, car, pander, tidyverse, DT, ggplot2  |
 | <a href="https://tybinning.github.io/rprojects/SplitPlotExperiment.html" > Machine Learning Parameters Experiment </a> | R | Split Plot ANOVA Testing Max Depths Affect on RandomForestClassifier() | car, pander, tidyverse, ggplot |
 | <a href="https://tybinning.github.io/rprojects/Math425finalProject.html" > Predicting Defaulted Loans </a> | R | Using Logistic Regression to Predict Loan Defaults | mosaic, car, pander, tidyverse, DT  |
 | <a href="https://tybinning.github.io/rprojects/Cateye_Selling_Price.html"> Cateye Chevy Truck Valuation </a> | R | Using Linear Regression to demonstrate the relationship between Mileage and Price on Chevy trucks years 2003-2006 | mosaic, car, pander, tidyverse, DT |
-| <a href="https://tybinning.github.io/pythonprojects/craigs_cars.html"> Jeep Cherokee Analysis </a> | Python | Webscraped data from Craigslist to look at different qualities and characteristic to see how they affect prices of Jeep Cherokees | BeautifulSoup, Requests, Altair, Plotly, GeneratorType, Pandas, Numpy, Seaborn, String |
-| <a href="https://tybinning.github.io/rprojects/consulting_project.html"> Data Science Salary </a> | R | Linear Regression on the relationship between a Data Scientists Salary and Population Size | tidyverse, ggplot2, ploytly, reader, gapminder, DT, pander, car, dplyr |
 
 # PYTHON
 Level: Proficient in Python
