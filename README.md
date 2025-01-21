@@ -18,7 +18,7 @@ Feel free to chat with me on <a href="https://www.linkedin.com/in/tyler-r-binnin
 
 | Project Title |Language| Discription | Libraries |
 | --- | --- | --- | --- |
-| Algorithmic Trading Platform | Python | Currently on Going: Executes Trades Based on Predefined Parameters | sklearn, statsmodels, plotly, dash, AWS | 
+| <a href="https://tybinning.github.io/AlgorithmicTradingBlog/"> Algorithmic Trading Platform </a> | Python | Currently on Going: Executes Trades Based on Predefined Parameters | sklearn, statsmodels, plotly, dash, AWS | 
 | <a href="https://tybinning.github.io/rprojects/PushUpRestTime.html" > Push Up Rest Time Analysis of Variance </a> | R | Blocked ANOVA Testing Affect of Rest Time on Push Ups Till Tailure | mosaic, car, pander, tidyverse, DT, ggplot2  |
 | <a href="https://tybinning.github.io/rprojects/SplitPlotExperiment.html" > Machine Learning Parameters Experiment </a> | R | Split Plot ANOVA Testing Max Depths Affect on RandomForestClassifier() | car, pander, tidyverse, ggplot |
 | <a href="https://tybinning.github.io/rprojects/Math425finalProject.html" > Predicting Defaulted Loans </a> | R | Using Logistic Regression to Predict Loan Defaults | mosaic, car, pander, tidyverse, DT  |
